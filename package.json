@@ -1,0 +1,23 @@
+{
+  "name": "inflearn_nest_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon --exec node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevelopJKong/inflearn_nest.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevelopJKong/inflearn_nest.js/issues"
+  },
+  "homepage": "https://github.com/DevelopJKong/inflearn_nest.js#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
